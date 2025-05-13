@@ -41,7 +41,7 @@ def get_dataset(opts):
     data = pd.read_csv(opts.data_path)
 
     # New format: prompt, text
-    dataset = data[['prompt', 'text']].dropna().copy()
+    dataset = data[data['text'].notna()][['prompt', 'text']].copy()
     print(f"Prepared dataset with {len(dataset)} prompts")
     
     return dataset
@@ -117,7 +117,7 @@ if __name__ == "__main__":
     )
     
     # Filter out rows with None values
-    prediction_frame = prediction_frame.dropna()
+    prediction_frame = prediction_frame[prediction_frame['text_prediction'].notnull()]
     
     time_frame = pd.DataFrame(
         data = {
