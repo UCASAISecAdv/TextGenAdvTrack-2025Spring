@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7ff75e0d-443e-403e-adfa-c19299dfe52a)# ✨ TextGenAdvTrack - Spring 2025
+# ✨ TextGenAdvTrack - Spring 2025
 Hi, every one! 
 
 This is the official repository for TextGenAdvTrack, practice session of the course **Artificial Intelligence Security, Attacks and Defenses** which is offered to graduate students of UCAS in the spring of 2025.
