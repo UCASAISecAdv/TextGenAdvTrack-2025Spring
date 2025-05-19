@@ -1,4 +1,4 @@
-# ✨ TextGenAdvTrack - Spring 2025
+![image](https://github.com/user-attachments/assets/7ff75e0d-443e-403e-adfa-c19299dfe52a)# ✨ TextGenAdvTrack - Spring 2025
 Hi, every one! 
 
 This is the official repository for TextGenAdvTrack, practice session of the course **Artificial Intelligence Security, Attacks and Defenses** which is offered to graduate students of UCAS in the spring of 2025.
@@ -52,15 +52,22 @@ Teaching Assistant (TA): Xiaochuan Jin, M.S., Institute of Automation CAS, jinxi
 
 - UCAS_AISAD_TEXT-test2
 
-| Team | Week | AUC | ACC | F1 | Avg_Time(s) | Final_Score |
-|:------:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 我们是奶龙 | Week11 | 0.6760 | 0.6588 | 0.7001 | 0.7998 | 0.6733 |
-| 不知名队 | Week11 | 0.6407 | 0.6253 | 0.5567 | 0.0100 | 0.6277 |
-| 生成文本队 | Week11 | 0.6326 | 0.5990 | 0.6258 | 0.0335 | 0.6219 |
-| Adversa8ors | Week11 | 0.6431 | 0.5527 | 0.6243 | 0.0899 | 0.6141 |
-| baseline | Week11 | 0.5123 | 0.5205 | 0.6569 | 0.0225 | 0.5292 |
-| Ascian_Yu | Week11 | 0.5087 | 0.5108 | 0.6489 | 0.1550 | 0.5233 |
-| AI_Safety_Team | Week11 | 0.4712 | 0.4944 | 0.4877 | 0.0171 | 0.4798 |
+| Team | AUC    | ACC    | F1     | Avg_Time(s) | Final_Score |
+|:---------:|:------:|:------:|:------:|:-------:|:-------:|
+| Galaxy       | 0.7090 | 0.6605 | 0.7031 | 0.1253      | 0.6939      |
+| 我们是奶龙队 | 0.6760 | 0.6588 | 0.7001 | 0.7998      | 0.6733      |
+| 233         | 0.6866 | 0.6245 | 0.6861 | 0.0013      | 0.6679      |
+| 不知名队     | 0.6407 | 0.6253 | 0.5567 | 0.0100      | 0.6277      |
+| CERNIS_2024  | 0.6355 | 0.6228 | 0.5871 | 0.0128      | 0.6268      |
+| 生成文本队       | 0.6326 | 0.5990 | 0.6258 | 0.0335      | 0.6219      |
+| Adversa8ors      | 0.6431 | 0.5527 | 0.6243 | 0.0899      | 0.6141      |
+| Nobody           | 0.6368 | 0.6006 | 0.4697 | 0.0217      | 0.6092      |
+| 1zzz             | 0.5732 | 0.5069 | 0.6628 | 0.1378      | 0.5623      |
+| SAFETEAM         | 0.5123 | 0.5366 | 0.6370 | 0.0229      | 0.5321      |
+| Baseline         | 0.5123 | 0.5205 | 0.6569 | 0.0225      | 0.5292      |
+| Ascian_Yu        | 0.5087 | 0.5108 | 0.6489 | 0.1550      | 0.5233      |
+| AI_Safety_Team   | 0.4712 | 0.4944 | 0.4877 | 0.0171      | 0.4798      |
+
 
 
 
